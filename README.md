@@ -17,7 +17,6 @@ This Library Management System is a comprehensive software solution designed for
 - :pencil2: **Author Management**: Manage author details including names and nationalities.
 - :bookmark_tabs: **Genre Management**: Categorize books into genres for easier management.
 - :busts_in_silhouette: **Member Management**: Register and manage library members.
-- :hourglass_flowing_sand: **Loan Management**: Issue, track, and manage loans.
 - :mag_right: **Search Functionality**: Robust search capabilities to find books, authors, and members quickly.
 
 ## Getting Started
