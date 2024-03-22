@@ -1,15 +1,15 @@
 # Library-management-system-
 This Library Management System is a comprehensive software solution designed to manage the operations of a library efficiently. It facilitates the management of library resources, including books, authors, genres, loans, and members.
 
-# Library Management System ![GitHub last commit](https://img.shields.io/github/last-commit/username/repository?color=green&style=flat-square) ![License](https://img.shields.io/github/license/username/repository?color=blue&style=flat-square)
-
 This Library Management System is a comprehensive software solution designed for the efficient management of library operations. 📚
 
 <p align="center">
-  <img alt="C#" src="[URL_TO_YOUR_CSHARP_ICON](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fpng-eduyx&psig=AOvVaw2qhfCaKs45cTUBSPkT1WCJ&ust=1711210021004000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMi5_pygiIUDFQAAAAAdAAAAABAE)" width="50" height="50"/>
-  <img alt="MySQL" src="URL_TO_YOUR_MYSQL_ICON" width="50" height="50"/>
-  <!-- Add more icons here -->
+  <img alt="C#" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="50" height="50"/>
+  <img alt="MySQL" src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" width="60" height="50"/>
 </p>
+
+
+
 
 ## Features
 
