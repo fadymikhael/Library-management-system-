@@ -1,0 +1,47 @@
+C:\Users\max-_\OneDrive\Desktop\Projet\bibliothèque\bibliothèque\bin\Debug\bibliothèque.exe.config
+C:\Users\max-_\OneDrive\Desktop\Projet\bibliothèque\bibliothèque\bin\Debug\bibliothèque.exe
+C:\Users\max-_\OneDrive\Desktop\Projet\bibliothèque\bibliothèque\bin\Debug\bibliothèque.pdb
+C:\Users\max-_\OneDrive\Desktop\Projet\bibliothèque\bibliothèque\bin\Debug\MySql.Data.dll
+C:\Users\max-_\OneDrive\Desktop\Projet\bibliothèque\bibliothèque\bin\Debug\Google.Protobuf.dll
+C:\Users\max-_\OneDrive\Desktop\Projet\bibliothèque\bibliothèque\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\max-_\OneDrive\Desktop\Projet\bibliothèque\bibliothèque\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\max-_\OneDrive\Desktop\Projet\bibliothèque\bibliothèque\bin\Debug\Renci.SshNet.dll
+C:\Users\max-_\OneDrive\Desktop\Projet\bibliothèque\bibliothèque\bin\Debug\MySql.Data.xml
+C:\Users\max-_\OneDrive\Desktop\Projet\bibliothèque\bibliothèque\obj\Debug\bibliothèque.csprojAssemblyReference.cache
+C:\Users\max-_\OneDrive\Desktop\Projet\bibliothèque\bibliothèque\obj\Debug\bibliothèque.Form_LiseAuteurs.resources
+C:\Users\max-_\OneDrive\Desktop\Projet\bibliothèque\bibliothèque\obj\Debug\bibliothèque.Properties.Resources.resources
+C:\Users\max-_\OneDrive\Desktop\Projet\bibliothèque\bibliothèque\obj\Debug\bibliothèque.csproj.GenerateResource.cache
+C:\Users\max-_\OneDrive\Desktop\Projet\bibliothèque\bibliothèque\obj\Debug\bibliothèque.csproj.CoreCompileInputs.cache
+C:\Users\max-_\OneDrive\Desktop\Projet\bibliothèque\bibliothèque\obj\Debug\bibliothèque.csproj.CopyComplete
+C:\Users\max-_\OneDrive\Desktop\Projet\bibliothèque\bibliothèque\obj\Debug\bibliothèque.exe
+C:\Users\max-_\OneDrive\Desktop\Projet\bibliothèque\bibliothèque\obj\Debug\bibliothèque.pdb
+C:\Users\max-_\OneDrive\Desktop\Projet\bibliothèque\bibliothèque\obj\Debug\bibliothèque.FicheAuteur.resources
+C:\Users\max-_\OneDrive\Desktop\Projet\bibliothèque\bibliothèque\obj\Debug\bibliothèque.Menu.resources
+C:\Users\max-_\OneDrive\Desktop\Projet\bibliothèque\bibliothèque\obj\Debug\bibliothèque.Liste_Genres.resources
+C:\Users\max-_\OneDrive\Desktop\Projet\bibliothèque\bibliothèque\obj\Debug\bibliothèque.list_adherent.resources
+C:\Users\max-_\OneDrive\Desktop\Projet\bibliothèque\bibliothèque\obj\Debug\bibliothèque.liste_livres.resources
+C:\Users\max-_\OneDrive\Desktop\Projet\bibliothèque\bibliothèque\obj\Debug\bibliothèque.liste_pret.resources
+C:\Users\max-_\OneDrive\Desktop\Projet\bibliothèque\bibliothèque\obj\Debug\bibliothèque.FicheGenre.resources
+D:\Nouveau dossier\TP 7 ADO Partie 1-Fady Mikhael\TP 7 ADO Partie 1-Fady Mikhael\bibliothèque\bibliothèque\bin\Debug\bibliothèque.exe.config
+D:\Nouveau dossier\TP 7 ADO Partie 1-Fady Mikhael\TP 7 ADO Partie 1-Fady Mikhael\bibliothèque\bibliothèque\bin\Debug\bibliothèque.exe
+D:\Nouveau dossier\TP 7 ADO Partie 1-Fady Mikhael\TP 7 ADO Partie 1-Fady Mikhael\bibliothèque\bibliothèque\bin\Debug\bibliothèque.pdb
+D:\Nouveau dossier\TP 7 ADO Partie 1-Fady Mikhael\TP 7 ADO Partie 1-Fady Mikhael\bibliothèque\bibliothèque\bin\Debug\Google.Protobuf.dll
+D:\Nouveau dossier\TP 7 ADO Partie 1-Fady Mikhael\TP 7 ADO Partie 1-Fady Mikhael\bibliothèque\bibliothèque\bin\Debug\BouncyCastle.Crypto.dll
+D:\Nouveau dossier\TP 7 ADO Partie 1-Fady Mikhael\TP 7 ADO Partie 1-Fady Mikhael\bibliothèque\bibliothèque\bin\Debug\Ubiety.Dns.Core.dll
+D:\Nouveau dossier\TP 7 ADO Partie 1-Fady Mikhael\TP 7 ADO Partie 1-Fady Mikhael\bibliothèque\bibliothèque\bin\Debug\Renci.SshNet.dll
+D:\Nouveau dossier\TP 7 ADO Partie 1-Fady Mikhael\TP 7 ADO Partie 1-Fady Mikhael\bibliothèque\bibliothèque\bin\Debug\MySql.Data.xml
+D:\Nouveau dossier\TP 7 ADO Partie 1-Fady Mikhael\TP 7 ADO Partie 1-Fady Mikhael\bibliothèque\bibliothèque\obj\Debug\bibliothèque.csproj.AssemblyReference.cache
+D:\Nouveau dossier\TP 7 ADO Partie 1-Fady Mikhael\TP 7 ADO Partie 1-Fady Mikhael\bibliothèque\bibliothèque\obj\Debug\bibliothèque.FicheAuteur.resources
+D:\Nouveau dossier\TP 7 ADO Partie 1-Fady Mikhael\TP 7 ADO Partie 1-Fady Mikhael\bibliothèque\bibliothèque\obj\Debug\bibliothèque.FicheGenre.resources
+D:\Nouveau dossier\TP 7 ADO Partie 1-Fady Mikhael\TP 7 ADO Partie 1-Fady Mikhael\bibliothèque\bibliothèque\obj\Debug\bibliothèque.Form_LiseAuteurs.resources
+D:\Nouveau dossier\TP 7 ADO Partie 1-Fady Mikhael\TP 7 ADO Partie 1-Fady Mikhael\bibliothèque\bibliothèque\obj\Debug\bibliothèque.Liste_Genres.resources
+D:\Nouveau dossier\TP 7 ADO Partie 1-Fady Mikhael\TP 7 ADO Partie 1-Fady Mikhael\bibliothèque\bibliothèque\obj\Debug\bibliothèque.liste_livres.resources
+D:\Nouveau dossier\TP 7 ADO Partie 1-Fady Mikhael\TP 7 ADO Partie 1-Fady Mikhael\bibliothèque\bibliothèque\obj\Debug\bibliothèque.list_adherent.resources
+D:\Nouveau dossier\TP 7 ADO Partie 1-Fady Mikhael\TP 7 ADO Partie 1-Fady Mikhael\bibliothèque\bibliothèque\obj\Debug\bibliothèque.Menu.resources
+D:\Nouveau dossier\TP 7 ADO Partie 1-Fady Mikhael\TP 7 ADO Partie 1-Fady Mikhael\bibliothèque\bibliothèque\obj\Debug\bibliothèque.liste_pret.resources
+D:\Nouveau dossier\TP 7 ADO Partie 1-Fady Mikhael\TP 7 ADO Partie 1-Fady Mikhael\bibliothèque\bibliothèque\obj\Debug\bibliothèque.Properties.Resources.resources
+D:\Nouveau dossier\TP 7 ADO Partie 1-Fady Mikhael\TP 7 ADO Partie 1-Fady Mikhael\bibliothèque\bibliothèque\obj\Debug\bibliothèque.csproj.GenerateResource.cache
+D:\Nouveau dossier\TP 7 ADO Partie 1-Fady Mikhael\TP 7 ADO Partie 1-Fady Mikhael\bibliothèque\bibliothèque\obj\Debug\bibliothèque.csproj.CoreCompileInputs.cache
+D:\Nouveau dossier\TP 7 ADO Partie 1-Fady Mikhael\TP 7 ADO Partie 1-Fady Mikhael\bibliothèque\bibliothèque\obj\Debug\bibliothèque.csproj.CopyComplete
+D:\Nouveau dossier\TP 7 ADO Partie 1-Fady Mikhael\TP 7 ADO Partie 1-Fady Mikhael\bibliothèque\bibliothèque\obj\Debug\bibliothèque.exe
+D:\Nouveau dossier\TP 7 ADO Partie 1-Fady Mikhael\TP 7 ADO Partie 1-Fady Mikhael\bibliothèque\bibliothèque\obj\Debug\bibliothèque.pdb
